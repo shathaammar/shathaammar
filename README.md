@@ -1,3 +1,5 @@
+Hi there, I'm Shatha👋
+
 Welcome to my GitHub profile! I'm a software developer who enjoys turning ideas into real, functional applications and continuously improving my skills through hands-on projects.
 
 🙋‍♀️ About Me
