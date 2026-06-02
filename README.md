@@ -32,4 +32,6 @@ Welcome to my GitHub profile! I'm a software developer who enjoys turning ideas 
 
 I believe continuous learning is essential in software development. I'm constantly improving my technical skills, exploring best practices, and working on projects that help me grow as a developer.
 
+---
+
 Thanks for visiting! Feel free to explore my repositories, fork projects, and reach out for collaboration.
